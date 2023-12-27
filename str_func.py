@@ -1,2 +1,3 @@
 def upper_sentences(sentence):
-    return sentence.upper()
+    """функция переводит все буквы в верхний регистр"""
+   return sentence.upper()
