@@ -5,3 +5,4 @@ def upper_sentences(sentence):
 def title_sentences(sentence):
     """Функция делает заглавными первые буквы в словах."""
     return sentence.title()
+
