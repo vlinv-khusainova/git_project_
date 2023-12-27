@@ -1,3 +1,8 @@
 def upper_sentences(sentence):
-    """функция переводит все буквы в верхний регистр"""
+    """Функция переводит все буквы в верхний регистр."""
     return sentence.upper()
+
+def title_sentences(sentence):
+    """Функция делает заглавными первые буквы в словах."""
+    return sentence.title()
+
